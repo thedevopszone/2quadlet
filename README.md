@@ -1,5 +1,5 @@
 <img src="2quadlet.png" alt="2quadlet" width="400"/>
-<img src="2quadlet-logo.png" alt="2quadlet" width="200"/>
+<img src="2quadlet-logo.png" alt="2quadlet" width="300"/>
 
 
 # 2quadlet – Convert Podman Commands and Compose Files to Quadlets
