@@ -1,6 +1,6 @@
 <img src="2quadlet.png" alt="2quadlet" width="400"/>
 
-## 2quadlet – Convert Podman Commands and Compose Files to Quadlets
+# 2quadlet – Convert Podman Commands and Compose Files to Quadlets
 
 **2quadlet** is a simple and powerful command-line tool that helps you generate [Podman Quadlet](https://docs.podman.io/en/latest/markdown/podman-systemd.unit.html) files from:
 
