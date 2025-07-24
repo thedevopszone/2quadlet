@@ -21,15 +21,16 @@ It bridges the gap between development workflows and production-ready systemd se
 
 ---
 
-## 📦 Installation
+## 📦 Installation and Usage
 
 Clone the repo and run the tool directly:
 
 ```bash
 git clone https://github.com/youruser/2quadlet.git
 cd 2quadlet
-cargo build --release
-./target/release/2quadlet --help
+
+go run compose-to-qadlet.go docker-compose.yml .
+go run podman-to-quadlet.go -cmd 'podman run -d --name webapp -p 8080:80 -v /data:/app/data:Z docker.io/nginx:latest'  -output .
 ```
 
 Author: Thomas Mundt - tmundt@softxpert.de
