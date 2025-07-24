@@ -11,7 +11,7 @@ It bridges the gap between development workflows and production-ready systemd se
 
 ---
 
-## 🚀 Features
+## Features
 
 - Convert basic `podman run` or `create` commands into valid quadlet `.container` files
 - Translate `docker-compose.yaml` into multiple quadlet units
@@ -21,7 +21,7 @@ It bridges the gap between development workflows and production-ready systemd se
 
 ---
 
-## 📦 Installation and Usage
+## Installation and Usage
 
 Clone the repo and run the tool directly:
 
