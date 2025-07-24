@@ -1,4 +1,4 @@
-# ![2quadlet](2quadlet.png)
+<img src="2quadlet.png" alt="2quadlet" width="400"/>
 
 ## 2quadlet – Convert Podman Commands and Compose Files to Quadlets
 
